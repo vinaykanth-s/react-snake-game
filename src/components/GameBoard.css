@@ -1,0 +1,14 @@
+.board__container {
+  margin: auto;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+}
+
+.cell {
+  border: 1px solid #999;
+  height: 15px;
+  width: 20px;
+}
